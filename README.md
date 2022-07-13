@@ -1,5 +1,6 @@
-### Hi there 👋
->😁
+### 👋 Creative New Design 👋
+>😁 새로운 시도를 좋아하는 ##강준모입니다.
+    
 <!--
 **Junmovo/Junmovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
