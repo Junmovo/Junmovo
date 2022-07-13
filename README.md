@@ -6,7 +6,7 @@
     사용자들에게 만족스러운 경험을 제공하기 위한 디자인을 하는 것이  현재 목표입니다.
 
 ### 🎖Skill
-
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)](https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)
 ### ✔License
     1. 워드프로세서 1급
     2. 컴퓨터활용능력 2급
