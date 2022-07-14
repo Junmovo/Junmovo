@@ -7,7 +7,12 @@
 
 ### 🎖Skill
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)](https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)
-<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white" />
+[![Facebook Badge](https://img.shields.io/badge/Notefolio-%231ecad3?style=flat-square&logo=N&link=https://notefolio.net/junmofolio/)](https://notefolio.net/junmofolio/)
+
+<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/> <img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/>
+<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/>
 ### ✔License
     1. 워드프로세서 1급
     2. 컴퓨터활용능력 2급
