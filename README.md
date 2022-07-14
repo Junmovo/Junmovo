@@ -6,13 +6,17 @@
     사용자들에게 만족스러운 경험을 제공하기 위한 디자인을 하는 것이  현재 목표입니다.
 
 ### 🎖Skill
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)](https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)
-[![Facebook Badge](https://img.shields.io/badge/Notefolio-%231ecad3?style=flat-square&logo=N&link=https://notefolio.net/junmofolio/)](https://notefolio.net/junmofolio/)
-
-<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/> <img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/>
-<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/>
-<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/>
-<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/>
+#### 👀 Tap to find more information.<br>
+ * [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)](https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)
+ * [![Facebook Badge](https://img.shields.io/badge/Notefolio-%231ecad3?style=flat-square&logo=N&link=https://notefolio.net/junmofolio/)](https://notefolio.net/junmofolio/)
+ #### 😏 I can use this Tools 
+<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/> <img src="https://img.shields.io/badge/-Premiere%20Pro-%237A4069?logo=adobe%20premiere%20pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Adobe%20XD-%23FF61F6?logo=adobe%20Xd&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?logo=adobe%20photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Illustrator-%23FF9A00?logo=adobe%20Illustrator&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-%231572B6?logo=CSS3&logoColor=white"/>
 ### ✔License
     1. 워드프로세서 1급
     2. 컴퓨터활용능력 2급
