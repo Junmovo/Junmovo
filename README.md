@@ -1,36 +1,50 @@
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8dd0fc,100:ddb4f6&height=150&section=header)
 
-###  👋 Creative New Design 👋
-#### 새로운 시도를 좋아하고 창작하기를 좋아하는 강준모입니다.
-🌱무럭무럭 자라나고 있는 개발 꿈나무입니다.🌱 
-<br>
->😁목표 <br>
-    사용자들에게 만족스러운 경험을 제공하기 위한 디자인을 하는 것이  현재 목표입니다.
+<div align=center>
+    
+##  👋 Welcome My Github 👋
 
-### 🎖Skill
+#### 새로운 시도를 좋아하고 끊임없이 성장해 나가는 강준모입니다.
+🌱디자이너부터 프론트엔드까지 성장을 두려워하지 않는 개발자 입니다.🌱 
+<br/>
+<br/>
+<div markdown="1" align=center>
 
- #### 😏 I can use this Tools 
-<img src="https://img.shields.io/badge/-After%20Effects-%239999FF?logo=adobe%20after%20effects&logoColor=white"/> <img src="https://img.shields.io/badge/-Premiere%20Pro-%237A4069?logo=adobe%20premiere%20pro&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Adobe%20XD-%23FF61F6?logo=adobe%20Xd&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?logo=adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Illustrator-%23FF9A00?logo=adobe%20Illustrator&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-%23007ACC?logo=visual%20studio%20code&logoColor=white"/>
-<img src="https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-%231572B6?logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white"/>
-#### 👀 Tap to find more information.<br>
- * [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)](https://www.youtube.com/channel/UCJCi_yM92RQhGvptckZaohg)
- * [![Facebook Badge](https://img.shields.io/badge/Notefolio-%231ecad3?style=flat-square&logo=N&link=https://notefolio.net/junmofolio/)](https://notefolio.net/junmofolio/)
- *   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/Junmovo)](https://github.com/Junmovo)
- * <a href="https://maneya712@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://maneya712@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+|기간|활동|역할
+|:-:|:-:|:-:
+|2022.10 ~ 2024.02 |  필커뮤니티 | 퍼블리셔
+|2022.03 ~ 2022.09 | UI/UX 퍼블리셔 과정 | 
+|2018.03 ~ 2022.03 | 경기과학기술대 디자인과 | 졸업
 
-### ✔License
-    1. 워드프로세서 1급
-    2. 컴퓨터활용능력 2급
-    3. 정보처리기능사
-    4. 전자출판기능사
-    5. 컴퓨터그래픽스운용기능사
-    6. 웹디자인기능사
-   
+</div>
+
+
+<br/>
+
+### 🎖 Skills
+ 
+##### Develop Tools
+ 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+
+
+
+
+
+##### Adobe Tools
+
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+
+
+
+
+
+   ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8dd0fc,100:ddb4f6&height=150&section=footer)
+
